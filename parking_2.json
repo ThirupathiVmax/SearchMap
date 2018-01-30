@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": "225",
+      "parking_name": "RTC boarding point \/ medaram Y junction RTC parking ",
+      "parking_area": "15 acres",
+      "parking_distance": "0 km",
+      "parking_capacity": "500 Vehicles",
+      "dist_gadde": "0.5 km",
+      "dist_bus_point": "0 km",
+      "parking_status": "Available",
+      "parking_lat": "18.3126305556",
+      "parking_lang": "80.2394611111",
+      "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/18.3126305556+80.2394611111"
+    },
+    {
+      "id": "265",
+      "parking_name": "Medaram Tank parking place-- VIP Parking",
+      "parking_area": "8 acres",
+      "parking_distance": "0 km",
+      "parking_capacity": "400 Vehicles",
+      "dist_gadde": "0.8 km",
+      "dist_bus_point": "0.6 km",
+      "parking_status": "Available",
+      "parking_lat": "18.3078109632",
+      "parking_lang": "80.2503978312",
+      "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/18.3078109632+80.2503978312"
+    },
+    {
+      "id": "389",
+      "parking_name": "VVIP Parking place and escort ",
+      "parking_area": "8 acres",
+      "parking_distance": "0 km",
+      "parking_capacity": "400 Vehicles",
+      "dist_gadde": "0.3 km",
+      "dist_bus_point": "0.5 km",
+      "parking_status": "Available",
+      "parking_lat": "18.3187071522",
+      "parking_lang": "80.2444729504",
+      "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/18.3187071522+80.2444729504"
+    }
+  ]
+}
+
+
+

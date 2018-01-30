@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "id": "312",
+      "parking_name": "ORATTAM -2C Parking Place (15ACS)",
+      "parking_area": "50 acres",
+      "parking_distance": "0 km",
+      "parking_capacity": "2500 Vehicles",
+      "dist_gadde": "0.7 km",
+      "dist_bus_point": "5 km",
+      "parking_status": "Available",
+      "parking_lat": "18.3377667568",
+      "parking_lang": "80.230447553",
+      "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/18.3377667568+80.230447553"
+    },
+    {
+      "id": "311",
+      "parking_name": "ORATTAM -2B Parking Place (20ACS)",
+      "parking_area": "25 acres",
+      "parking_distance": "0 km",
+      "parking_capacity": "1250 Vehicles",
+      "dist_gadde": "1 km",
+      "dist_bus_point": "5 km",
+      "parking_status": "Available",
+      "parking_lat": "18.3400028172",
+      "parking_lang": "80.2323152504",
+      "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/18.3400028172+80.2323152504"
+    },
+    {
+      "id": "303",
+      "parking_name": "ORATTAM-2A Parking place",
+      "parking_area": "20 acres",
+      "parking_distance": "0 km",
+      "parking_capacity": "1000 Vehicles",
+      "dist_gadde": "1 km",
+      "dist_bus_point": "5 km",
+      "parking_status": "Available",
+      "parking_lat": "18.3383100001",
+      "parking_lang": "80.2339977191",
+      "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/18.3383100001+80.2339977191"
+    },
+    {
+      "id": "313",
+      "parking_name": "ORATTAM -1 B Parking(10 Acres)",
+      "parking_area": "50 acres",
+      "parking_distance": "0 km",
+      "parking_capacity": "2500 Vehicles",
+      "dist_gadde": "1.2 km",
+      "dist_bus_point": "5 km",
+      "parking_status": "Available",
+      "parking_lat": "18.3345017363",
+      "parking_lang": "80.2384485444",
+      "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/18.3345017363+80.2384485444"
+    },
+    {
+      "id": "315",
+      "parking_name": "Oorattam -1A 10 Acrs",
+      "parking_area": "6 acres",
+      "parking_distance": "0 km",
+      "parking_capacity": "300 Vehicles",
+      "dist_gadde": "1 km",
+      "dist_bus_point": "5 km",
+      "parking_status": "Available",
+      "parking_lat": "18.3387508593",
+      "parking_lang": "80.2379028312",
+      "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/18.3387508593+80.2379028312"
+    },
+    {
+      "id": "314",
+      "parking_name": "(BASAGUDEM(ORATTAM-1) Parking Place 25 ACS)",
+      "parking_area": "40 acres",
+      "parking_distance": "0 km",
+      "parking_capacity": "2000 Vehicles",
+      "dist_gadde": "1.5 km",
+      "dist_bus_point": "6 km",
+      "parking_status": "Available",
+      "parking_lat": "18.3374125807",
+      "parking_lang": "80.2454344727",
+      "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/18.3374125807+80.2454344727"
+    }
+  ]
+}
+
+
+
