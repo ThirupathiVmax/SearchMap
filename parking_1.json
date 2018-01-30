@@ -78,19 +78,7 @@
       "parking_lang": "80.2097918183",
       "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/18.3124181048+80.2097918183"
     },
-    {
-      "id": "1980",
-      "parking_name": "Bayyakkapet Parking Place (100 acres)",
-      "parking_area": "100 acres",
-      "parking_distance": "0 km",
-      "parking_capacity": "5000 Vehicles",
-      "dist_gadde": "4 km",
-      "dist_bus_point": "3 km",
-      "parking_status": "Available",
-      "parking_lat": "18.32196592",
-      "parking_lang": "80.20005617",
-      "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/18.32196592+80.20005617"
-    },
+    
     {
       "id": "285",
       "parking_name": "Chinthal RTC Bus Station (Chintal RTC Parking place 10 ACS)",
