@@ -1,71 +1,6 @@
 {
   "data": [
     {
-      "id": "310",
-      "parking_name": "Kannepally-2 Parking Place (20ACS)",
-      "parking_area": "80 acres",
-      "parking_distance": "0 km",
-      "parking_capacity": "4000 Vehicles",
-      "dist_gadde": "1 km",
-      "dist_bus_point": "4 km",
-      "parking_status": "Available",
-      "parking_lat": "18.3293514017",
-      "parking_lang": "80.2241914586",
-      "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/18.3293514017+80.2241914586"
-    },
-    {
-      "id": "309",
-      "parking_name": "Kannepally-1 Parking Place (20ACS)",
-      "parking_area": "70 acres",
-      "parking_distance": "0 km",
-      "parking_capacity": "3500 Vehicles",
-      "dist_gadde": "1.2 km",
-      "dist_bus_point": "3.8 km",
-      "parking_status": "Available",
-      "parking_lat": "18.3324387932",
-      "parking_lang": "80.2245364318",
-      "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/18.3324387932+80.2245364318"
-    },
-    {
-      "id": "308",
-      "parking_name": "Jampanga Vayi Parking place (15 ACs)",
-      "parking_area": "25 acres",
-      "parking_distance": "0 km",
-      "parking_capacity": "1250 Vehicles",
-      "dist_gadde": "1.4 km",
-      "dist_bus_point": "3.6 km",
-      "parking_status": "Available",
-      "parking_lat": "18.33140946",
-      "parking_lang": "80.2310502781",
-      "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/18.33140946+80.2310502781"
-    },
-    {
-      "id": "302",
-      "parking_name": "Kothuru sub-station Parking( 15 ACs)",
-      "parking_area": "30 acres",
-      "parking_distance": "0 km",
-      "parking_capacity": "1500 Vehicles",
-      "dist_gadde": "1.5 km",
-      "dist_bus_point": "3.5 km",
-      "parking_status": "Available",
-      "parking_lat": "18.3266140084",
-      "parking_lang": "80.2265292256",
-      "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/18.3266140084+80.2265292256"
-    },
-    {
-      "id": "304",
-      "parking_name": "Kothur sthupam to Oorattum village Parking\r\n(Marasura RF Parking Place 20 ACS)",
-      "parking_area": "60 acres",
-      "parking_distance": "0 km",
-      "parking_capacity": "3000 Vehicles",
-      "dist_gadde": "1.6 km",
-      "dist_bus_point": "3.4 km",
-      "parking_status": "Available",
-      "parking_lat": "18.322392064",
-      "parking_lang": "80.2163799853",
-      "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/18.322392064+80.2163799853"
-    },
-    {
       "id": "301",
       "parking_name": "Kothur (v) to Jampana vagu road Parking\r\n(Pochamma Bandhan-Jampanna vagu parking place 25 ACS)",
       "parking_area": "20 acres",
@@ -272,19 +207,6 @@
       "parking_lat": "",
       "parking_lang": "",
       "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/+"
-    },
-    {
-      "id": "260",
-      "parking_name": "Tadvai RTC Parking (before tadvai police station 10acres)",
-      "parking_area": "10 acres",
-      "parking_distance": "0 km",
-      "parking_capacity": "300 Vehicles",
-      "dist_gadde": "13 km",
-      "dist_bus_point": "0 km",
-      "parking_status": "Available",
-      "parking_lat": "18.2338842294",
-      "parking_lang": "80.3143988893",
-      "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/18.2338842294+80.3143988893"
     }
   ]
 }
